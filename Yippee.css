@@ -1,0 +1,73 @@
+.Yippee{
+	border-top-style: ridge;
+	border-bottom-style: dashed;
+	border-left-style: dotted;
+	border-right-style: groove;
+	border-width: thick;
+	background-color: #F37121;
+	border-color: #D92027;
+	text-align: center;
+	font-style: cursive;
+	/*width: max-content;* It arranges div width as the content. And not more than the content*/
+	align-items: center;
+	text-align: center;
+	padding: 15px;
+	border-radius: 10px;
+}
+.container{
+	display: flex;
+
+}
+.container2{
+	display: flex;
+	margin-top: 300px;
+}
+.child1{
+	margin-right: 50px;
+}
+.child2{
+	width: 30%;
+	/*height: max-content;*/
+	background-color:#5FDDEF;
+	/*background-color: #ffe8df;*/
+	padding: 5px;
+	border-radius: 15px;
+	margin-left: 50px;
+	
+}
+.par{
+	font-size: 40px;
+	font-family: "Tangerine", serif;
+}
+.imag{
+width:400px;
+height:250px;"
+}
+.Maggi{
+	/*
+	position: fixed;
+	top: 550px;
+	right: 200px;
+	*/
+	border-bottom-style: ridge;
+	border-top-style: dashed;
+	border-left-style: dotted;
+	border-right-style: groove;
+	border-width: thick;
+	border-color: #D92027;
+	margin-bottom: 50px;
+	background-color: #ffff00;
+	padding: 10px;
+	border-radius: 10px;
+	
+
+}
+.MY{
+display: block;
+/*position: fixed;
+top: 500px;
+right: 50px;*/
+width: 40%;
+clear: both;
+float: right;
+}
